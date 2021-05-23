@@ -1,4 +1,4 @@
-# Coming Soon
+# Coming Soon (old version)
 Django Templates - Theme "Coming Soon" from startbootstrap.com
 
 <a href="https://startbootstrap.com/previews/coming-soon">Original template</a> (This theme is already updated and you cannot see it on <a href="https://startbootstrap.com/">Start Bootstrap</a> anymore)
